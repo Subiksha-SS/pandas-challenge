@@ -1,0 +1,10 @@
+Pandas Challenge - Written Report
+
+Analysis Summary
+There are two types of schools in school district, Charter and District. As per the analysis conducted on the students and their reading and math scores, students attending a Charter school are performing much better in both fields, as compared to students that attend a District school. The overall passing rate and the math and reading percentage are higher in Charter schools, as compared to District schools. So maybe more money needs to be invested in District schools so that they can focus on improcing the reading and writing of the students in the schools.
+
+Conclusions
+One conclusion that can be made is that the schools that spend less on students have a higher passing rate for math and reading and overall. Schools that spend less than $585 per student performs much better in reading and math. More than 90% of the students that have had less than $585 spent on them are passing math and reading. As more money is spent on a student, the percentage that passes math and reading is decreasing in trend, so schools that spend between $645 - $680 per students have the lowest percent of passing math and reading. The percentage is definitely more than 65% but it is the lowest, when comparing the budget for a student, that is less. This trend is observed in the case of the overall passing rate as well.
+
+The second conclusion that was observed is that schools that are small (<1000) or medium (1000-2000) have roughly the same passing rate for math, reading and overall. Larger schools have a lower passing rate than these two sizes of schools, which could be due to the volume of each class size and not enough attention might be given to the students to aid them while teaching math and reading. In the large school, barely 70% of students pass math while almost 94% of students in small and medium sized school pass. Reading in a large school is almost 83% and it is almost 97% in the small and medium sized schools. The size of the school might need to be reduced and distributed to other schools so that the students receive enough attention in their education.
+
